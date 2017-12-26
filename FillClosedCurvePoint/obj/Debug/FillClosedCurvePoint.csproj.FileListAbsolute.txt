@@ -1,0 +1,9 @@
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\bin\Debug\FillClosedCurvePoint.exe.config
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\bin\Debug\FillClosedCurvePoint.exe
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\bin\Debug\FillClosedCurvePoint.pdb
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\obj\Debug\FillClosedCurvePoint.Form1.resources
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\obj\Debug\FillClosedCurvePoint.Properties.Resources.resources
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\obj\Debug\FillClosedCurvePoint.csproj.GenerateResource.Cache
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\obj\Debug\FillClosedCurvePoint.exe
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\obj\Debug\FillClosedCurvePoint.pdb
+D:\Projects\FillClosedCurvePoint\FillClosedCurvePoint\obj\Debug\FillClosedCurvePoint.csprojResolveAssemblyReference.cache
